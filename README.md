@@ -4,8 +4,8 @@ tanggal 20 agustus 2025
 # point to point address
 
 # konfigurasi router 2
-1. buat security profiles
-   masukan pass router 1
+1. buat security profiles   
+   masukan pass router 1  
 
 ![m](l5.PNG)
 
@@ -18,18 +18,18 @@ tanggal 20 agustus 2025
 
 ![m](l3.PNG)
 
-4. Jika sudah connect maka hasilnya akan seperti ini.
-   bagian security profile masukan yang sudah kita buat tadi yaitu **profile1**
+4. Jika sudah connect maka hasilnya akan seperti ini.   
+   bagian security profile masukan yang sudah kita buat tadi yaitu **profile1**  
 
  ![m](l6.PNG)
  
-5. Jika sudah sekarang kita tambahkan IP untuk interface wlannya ,
-   ip > address
-   kita buat menjadi 1 network dengan Router 1. Disini kita berikan IP 4.3.2.2/24.
+5. Jika sudah sekarang kita tambahkan IP untuk interface wlannya,    
+   ip > address    
+   kita buat menjadi 1 network dengan Router 1. Disini kita berikan IP 4.3.2.2/24.   
 
  ![m](l4.PNG)
  
-6. Jika sudah selanjutnya kita ping ke Router 1.
+6. Jika sudah selanjutnya kita ping ke Router 1.     
 
  ![m](l7.PNG)
 
