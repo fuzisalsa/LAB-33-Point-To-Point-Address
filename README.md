@@ -1,7 +1,7 @@
 # LAB-33-Point-To-Point-Address
 tanggal 20 agustus 2025
 
-
+  
 # Point to Point Address
   Sekarang kita akan konfigurasi point to point antar RouterBoard dengan menggunakan media wireless pada perangkat Mikrotik. Konsep dasarnya adalah menghubungkan dua Router agar dapat saling terkoneksi melalui jaringan nirkabel. Untuk mendukung konfigurasi tersebut, diperlukan dua RouterBoard, di mana salah satu perangkat dikonfigurasikan sebagai Access Point, sedangkan perangkat lainnya dikonfigurasikan sebagai Client.  
 
