@@ -12,7 +12,7 @@ tanggal 20 agustus 2025
   
   2. Jika sudah, sekarang kita beralih tab ke Interface lalu pilih interface wlannya. **wireless > interface > wlan1**. Ubah modenya menjadi **ap bridge**, SSID nya isi jika ingin custom, dan ganti security profiles menjadi ke security profiles yang kita telah buat sebelumnya.  
   
-  ![](ptp2.png)  
+  ![](ptp2.png)    
   
   3. Setelah itu klik apply dan OK, dan pastikan interface wlan1 tidak disable dan sudah running (R).
   
